@@ -1,0 +1,3 @@
+# Task: construct an interpolation polynomial in the Newtonian form of the 9th and 19th degrees for
+# function y = sin(x) on an interval from 0 to pi
+# Result: function graphs
